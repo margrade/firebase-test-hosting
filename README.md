@@ -1,0 +1,1 @@
+# firebase-test-hosting
